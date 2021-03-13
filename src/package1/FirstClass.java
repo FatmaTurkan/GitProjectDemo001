@@ -11,6 +11,7 @@ public class FirstClass {
 		//Expecting a conflict
 
 		//Hey!  this is my remote master branch -2:29 pm
+		//Here comes another conflicting line on master branch 2:59 pm
 
 	}
 
